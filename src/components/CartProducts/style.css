@@ -1,0 +1,54 @@
+.imagem-cart {
+  width: 88px;
+  height: 76px;
+  background-color: #e3dfdf;
+  border-radius: 14px;
+}
+
+.nome-cart {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #333333;
+}
+
+.categoria-cart {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  color: #828282;
+}
+
+.button-remove {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  border: none;
+  color: #bdbdbd;
+}
+
+.button-remove:hover {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  border: none;
+  color: black;
+  text-decoration: underline black;
+}
+
+.li-cart {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 0;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,26 @@
+.modal {
+  position: fixed;
+  background-color: #27ae60;
+  width: 284px;
+  height: 81px;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  align-items: center;
+  border-radius: 13px;
+  border: solid white 3px;
+}
+
+.button-modal {
+  margin-bottom: 37px;
+  border-radius: 3px;
+  border: none;
+  background: transparent;
+  color: white;
+  cursor: pointer;
+}
+
+.text-modal {
+  color: white;
+  font-family: "inter";
+}
